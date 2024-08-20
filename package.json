@@ -2,7 +2,11 @@
   "name": "cypress_cucumber.bdd_framework",
   "version": "1.0.0",
   "devDependencies": {
-    "cypress": "^13.13.3"
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@bahmutov/cypress-esbuild-preprocessor": "latest",
+    "cypress": "latest",
+    "typescript": "latest",
+    "ts-loader": "latest"
   },
   "description": "Cypress Cucumber Automation Framework",
   "main": "index.js",
