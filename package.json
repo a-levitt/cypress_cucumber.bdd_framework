@@ -184,5 +184,8 @@
   "bugs": {
     "url": "https://github.com/a-levitt/cypress_cucumber.bdd_framework/issues"
   },
-  "homepage": "https://github.com/a-levitt/cypress_cucumber.bdd_framework#readme"
+  "homepage": "https://github.com/a-levitt/cypress_cucumber.bdd_framework#readme",
+  "cypress-cucumber-preprocessor": {
+    "stepDefenitions": "cypress/suppport/step-definitions/**/*.js"
+  }
 }
