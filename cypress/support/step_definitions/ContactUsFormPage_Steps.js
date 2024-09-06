@@ -1,26 +1,23 @@
 import {When} from "@badeball/cypress-cucumber-preprocessor";
 
 
-When(`Contact Us form opened`, () => {
+
+When(`Fill in First Name field`, () => {
 
 })
 
-When(`First Name field is filled in`, () => {
+When(`Fill in Last Name field`, () => {
 
 })
 
-When(`Last Name field is filled in`, () => {
+When(`Fill in Email Address field`, () => {
 
 })
 
-When(`Email Address field is filled in`, () => {
+When(`Fill in Comment field`, () => {
 
 })
 
-When(`Comment field is filled in`, () => {
-
-})
-
-When(`Submit button is pressed`, () => {
+When(`Click Submit button`, () => {
 
 })
